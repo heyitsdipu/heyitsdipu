@@ -24,8 +24,6 @@
 - 📄 Know about my academic and research experience:  
   **https://sites.google.com/view/dipteshgayen/cv**
 
-- ⚡ Fun fact: **I treat clean code and well-converged simulations as first-class scientific results**
-
 ---
 
 ## 🌐 Socials:
