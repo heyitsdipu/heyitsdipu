@@ -38,18 +38,18 @@
 ## 💻 Tech Stack:
 
 - ### Languages 💻
-  - <div align="left" style="vertical-align: middle;">
+  <div align="left" style="vertical-align: middle;">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
 - ### Databases 📊
-  - <div align="left" style="vertical-align: middle;">
+  <div align="left" style="vertical-align: middle;">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 - ### Python Libraries and Tools (ML & Deep Learning) 🐍
-  - <div align="left" style="vertical-align: middle;">
+  <div align="left" style="vertical-align: middle;">
       <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -59,8 +59,23 @@
       <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 
+- ### Computational Chemistry & Atomistic Simulation
+  <div align="left" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/LAMMPS-Atomistic%20MD-%23D32F2F?style=for-the-badge">
+    <img src="https://img.shields.io/badge/VASP-DFT-%23007ACC?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Quantum%20ESPRESSO-DFT-%23000000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/MDAnalysis-Trajectory%20Analysis-%233776AB?style=for-the-badge">
+    <img src="https://img.shields.io/badge/OVITO-Visualization-%236A1B9A?style=for-the-badge">
+  </div>
+
+- ### Machine-Learning Interatomic Potentials
+  <div align="left">
+    <img src="https://img.shields.io/badge/MACE-MLIP-%23F57C00?style=for-the-badge">
+    <img src="https://img.shields.i
+</div>
+
 - ### Other Tools and Software 🧰
-  - <div align="left" style="vertical-align: middle;">
+  <div align="left" style="vertical-align: middle;">
       <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
