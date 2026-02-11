@@ -24,6 +24,8 @@
 - 📄 Know about my academic and research experience:  
   **https://sites.google.com/view/dipteshgayen/cv**
 
+- I like to do karate, playing badminton, and hiking. I like to read or listen different philosophical concepts. I am a deeply spiritual person. Spirituality means to know the relationship between "I" and the "Universe". I follow a philosophy called "Advait" (or Non-duality). If you are interested to know further, please read/listen some of the works of [Acharya Prashant](https://acharyaprashant.org). 
+
 ---
 
 ## 🌐 Socials:
