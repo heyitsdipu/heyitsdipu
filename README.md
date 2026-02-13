@@ -13,6 +13,12 @@
 
 <p align="center">
   <img src="./mlip-profile.png" width="500"/>
+  <br>
+ <sub>
+A typical scheme for generating machine learning interatomic potential. 
+The figure is created with Affinity Designer 2. 
+Icons were obtained from the open-source <a href="https://www.freepik.com">Freepik</a> website.
+</sub>
 </p>
 
 
