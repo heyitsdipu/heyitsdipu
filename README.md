@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **MLIP development, atomistic ML, and data-driven materials modeling**
 
 <p align="center">
-  <img src="./mlip-profile.png" width="600"/>
+  <img src="./mlip-profile.png" width="500"/>
 </p>
 
 
