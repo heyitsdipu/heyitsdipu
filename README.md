@@ -21,19 +21,16 @@ Icons were obtained from the open-source <a href="https://www.freepik.com">Freep
 </sub>
 </p>
 
+- 👨‍💻 All of my research code and projects are available at [GitHub](https://github.com/heyitsdipu)
 
-- 👨‍💻 All of my research code and projects are available at  
-  **https://github.com/heyitsdipu**
-
-- 📝 I write about my research, projects, and background at  
-  **https://sites.google.com/view/dipteshgayen/**
+- 📝 I write about my research, projects, and background at [Website](https://sites.google.com/view/dipteshgayen/)
 
 - 💬 Ask me about **atomistic simulations, LAMMPS, force-field development, ML for materials, and computational chemistry**
 
-- 📫 How to reach me: **dipteshgayen.phd@gmail.com**
+- 📫 How to reach me: [Email](mailto:dipteshgayen.phd@gmail.com)
 
-- 📄 Know about my academic and research experience:  
-  **https://sites.google.com/view/dipteshgayen/cv**
+- 📄 Know about my academic and research experience: [Curriculum Vitae](https://sites.google.com/view/dipteshgayen/cv)
+
 
 - I like doing karate, playing badminton, and hiking. I like to read or listen different philosophical concepts. I am a deeply spiritual person. Spirituality means to know the relationship between "I" and the "Universe". Yes, that's it. Don't spread stupidity in the name of spirituality. I follow a philosophy called "Advait" (or Non-duality). If you are interested to know further, please read or listen some of the works of [Acharya Prashant](https://acharyaprashant.org). 
 
