@@ -11,6 +11,11 @@
 
 - 👯 I’m looking to collaborate on **MLIP development, atomistic ML, and data-driven materials modeling**
 
+<p align="center">
+  <img src="./mlip-profile.png" width="600"/>
+</p>
+
+
 - 👨‍💻 All of my research code and projects are available at  
   **https://github.com/heyitsdipu**
 
