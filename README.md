@@ -1,6 +1,17 @@
 <h1 align="center">Hi, I'm Diptesh Gayen</h1>
 <h3 align="center">Computational Materials Scientist (PhD, Physics)</h3>
 
+```python
+class heyitsdipu:
+  def __init__(self):
+    self.pronoun = "He/Him"
+    self.interests = ['Phyiscs', 'Material Science', 'ML', 'DL', 'Polymer', 'GNN', 'MLIP', 'Next-gen materials']
+    self.quotes = "Play fearlessly! Play bold!"
+    self.description = '''
+        I like to write code that hopefully works 😋
+        '''
+```
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=heyitsdipu&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsdipu" />
 </p>
